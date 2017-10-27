@@ -1,6 +1,6 @@
 # excel-to-json-python
 
-*Supported file extension .xlsx, .xlsm, .xltx, .xltm
+*Supported file extension .xlsx, .xlsm, .xltx, .xltm*
 
 *Read this in other languages: [English](README.md), [Português](README.pt_br.md).*
 
