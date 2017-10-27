@@ -1,5 +1,7 @@
 # excel-to-json-python
 
+*Extensões de arquivos suportadas .xlsx, .xlsm, .xltx, .xltm
+
 *Ler em outra linguagem: [English](README.md), [Português](README.pt_br.md).*
 
 ## Instalar ##

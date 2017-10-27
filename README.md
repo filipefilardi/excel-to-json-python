@@ -1,5 +1,7 @@
 # excel-to-json-python
 
+*Supported file extension .xlsx, .xlsm, .xltx, .xltm
+
 *Read this in other languages: [English](README.md), [Português](README.pt_br.md).*
 
 ## Installation ##
@@ -17,3 +19,4 @@ Check [official openpyxl documentation](https://openpyxl.readthedocs.io/en/defau
 * Run script for the first time to generate all dependencies;
 * Add excel to convert inside tables folder;
 * Run script to create json files inside json folder.
+
